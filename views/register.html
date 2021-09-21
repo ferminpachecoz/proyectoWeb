@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro</title>
+</head>
+
+<body>
+    <form action="/registor" method="POST">
+
+        <label for="nombre">Nombre:</label>
+        <input type="text" name="nombre" id="nombre">
+        <br>
+        <label for="apellido">Apellido/s</label>
+        <input type="text" id="apellido" name="apellido" placeholder="apellido" />
+        <br>
+        <label for="nombre de usuario">Nombre de usuario:</label>
+        <input type="text" name="nombre de usuario" id="nombre de usuario">
+        <br>
+        
+        <label for="fechaDeNacimiento">Fecha de Nacimiento</label>
+        <input type="date" name="fecha">
+        <br>
+        <label for="text" name="domicilio">Domicilio</label>
+        <input type="text" name="domicilio" id="domicilio">
+        <br>
+        <label for="email">email</label>
+        <input type="email" id="email" name="email">
+        <label for="contrasena">contraseña</label>
+        <input type="password" name="contrasena" id="contrasena" alt="strongPass" required>
+
+        <input type="submit" value="ENVIAR">
+        <input type="reset" value="RESETEAR">
+
+    </form>
+
+
+</body>
+
+</html>
