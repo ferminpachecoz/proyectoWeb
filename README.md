@@ -19,4 +19,4 @@ Descripcion de los integrantes del proyecto:
 
 - Julian Domsch, 23 años. Soy de Palermo, CABA. Trabajo en Impress Jet SA, como gerente de proyectos. Tuve mis primeros acercamientos a la programacion con los lenguajes python y c++ durante la carrera de ingenieria, pero este es el primer curso de programacion que hago.
 
-- Fermin Pacheco
+- Fermin Pacheco, tengo 19 años, vivo en Tigre. Actualmente trabajo en un local de deportes como cajero. Me meti en el mundo de la programacion el año pasado mediante YouTube y me encanto, aprendiendo C++.
